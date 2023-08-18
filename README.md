@@ -7,6 +7,7 @@
     <a href="https://www.reddit.com/r/PokemonUnity/"><img alt="Reddit" src="https://img.shields.io/badge/join%20us%20on-reddit-ff5700.svg"></a>
   </p>
 </p>
+this readme file was from the original unity project, not from this port
 
 Pokemon Unity was in development for about a year before I could not continue working on the project. Rather than let it
 die, I released the source as is.
@@ -24,20 +25,30 @@ If you need to contact me regarding the project for any reason, you can reach me
 
 Thank you to everyone who supported me during the development of Pokémon Unity. I hope this source is useful.
 
-## Demo and Downloads
+## Original Demo and Downloads
 
 There is a demo WebGL for testing available here: [https://developer.cloud.unity3d.com/share/-1r-ml4tFf/](https://developer.cloud.unity3d.com/share/ZJcLqS46-z/)
 
-There are also demos for Windows, Linux, and Mac zipped in [Releases](https://github.com/superusercode/PokemonUnity/releases)! Please report any bugs if found.
+There are also demos for Windows, Linux, and Mac zipped in [Original PC Releases](https://github.com/superusercode/PokemonUnity/releases)! Please report any bugs if found.
 
-## Credits
+## Original Credits
 
 * Project author: [IIcolour Spectrum](https://www.reddit.com/user/IIcolour_Spectrum)
 * Project maintainer: [superusercode](https://www.reddit.com/user/Lucas_One/)
 * Logo author: [Kaihatsu](https://twitter.com/KaihatsuYT)
 
-## Contact
+## Original Contact
 
-* Reddit: https://www.reddit.com/r/PokemonUnity/
-* YouTube: https://www.youtube.com/c/IIcolourSpectrum
-* Discord server: https://discord.gg/SggHcXP
+* Reddit Pokemon: https://www.reddit.com/r/PokemonUnity/
+* YouTube IIcolour Spectrum: https://www.youtube.com/c/IIcolourSpectrum
+* Discord server Pokemon Unity: https://discord.gg/SggHcXP
+
+## Downloads Wii U
+  
+you will find a WUP ready to install on a retail console in [Releases Wii U](https://github.com/Jalm24/Pokemon-Unity-for-Wii-U/releases)!
+
+## Port Wii U Credits
+
+* the person who ported the project to the Wii U: Extintor Incendiandose
+* Youtube: [Extintor Incendiandose](https://youtube.com/@jalm_24)
+* Discord server: https://discord.gg/NFwJKhhEhe
